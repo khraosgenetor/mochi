@@ -1,0 +1,25 @@
+{
+  "name": "mochi",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khraosgenetor/mochi.git"
+  },
+  "keywords": [
+    "--NIL--"
+  ],
+  "author": "Khraos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khraosgenetor/mochi/issues"
+  },
+  "homepage": "https://github.com/khraosgenetor/mochi#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
